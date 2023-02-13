@@ -1,7 +1,8 @@
+import itertools
 import time
 from itertools import groupby
 from math import floor
-from typing import List, Set, Tuple
+from typing import List, Set, Tuple, Dict
 from simplicial import *
 from pymemcache.client import base
 
